@@ -18,7 +18,7 @@ model-index:
 should probably proofread and complete it, then remove this comment. -->
 
 
-# 🎧 **Speech Emotion Recognition with Whisper**
+# 🎧 **StressBuster AI with Whisper**
 This project leverages the **Whisper** model to recognize emotions in speech. The goal is to classify audio recordings into different emotional categories, such as **Happy**, **Sad**, **Surprised**, and etc.
 
 
