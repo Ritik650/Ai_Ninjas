@@ -28,6 +28,9 @@ The dataset used for training and evaluation is sourced from multiple datasets, 
 - [SAVEE](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee/data)
 - [TESS](https://tspace.library.utoronto.ca/handle/1807/24487)
 
+## 🗂 **Download the Model**
+The `model.safetensors` file is available here: https://drive.google.com/file/d/1N1XNpJG4uT1CJgoPtf5SByKRyxn14BAJ/view?usp=sharing
+
 The dataset contains recordings labeled with various emotions. Below is the distribution of the emotions in the dataset:
 | **Emotion** | **Count** |
 |-------------|-----------|
