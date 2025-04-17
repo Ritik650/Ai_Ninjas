@@ -123,7 +123,7 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 ## 🌐 **Connect with Us**
 - 🌟 Star the repo to show your support!
 - 🐛 Report issues [here](https://github.com/Ritik650/StressBuster-AI/issues).
-- 📧 Contact us via [email@example.com](mailto:email@example.com).
+- 📧 Contact us via [ry9812262@gmail.com.com](mailto:ry9812262@gmail.com).
 
 **Transform Stress into Strength with StressBuster AI!** 🙌  
 
