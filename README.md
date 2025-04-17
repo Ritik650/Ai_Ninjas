@@ -1,7 +1,3 @@
-Below is a new and enhanced README file for your repository:
-
----
-
 # 🎧 **StressBuster AI**  
 *A Voice-Powered Stress Detection and Management App*
 
